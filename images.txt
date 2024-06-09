@@ -9,4 +9,4 @@ python:latest
 mariadb:latest
 mysql:latest
 haxe:latest
-registry
+registry:latest
