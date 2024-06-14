@@ -3,3 +3,4 @@ nginx:latest
 mongo:6
 mongo:7
 mongo:5
+jenkins/jenkins:2.452.2
