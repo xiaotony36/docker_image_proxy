@@ -1,1 +1,1 @@
-nginx:latest
+nacos/nacos-server:latest
