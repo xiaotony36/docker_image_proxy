@@ -1,5 +1,5 @@
 nacos/nacos-server:latest
 nginx:latest
-mongodb:6
-mongodb:7
-mongodb:5
+mongo:6
+mongo:7
+mongo:5
