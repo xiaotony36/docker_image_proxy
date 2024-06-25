@@ -19,3 +19,4 @@ goharbor/harbor-portal:v2.5.2
 goharbor/harbor-core:v2.5.2
 goharbor/harbor-db:v2.5.2
 goharbor/prepare:v2.5.2
+nacos/nacos-server:v2.2.3
