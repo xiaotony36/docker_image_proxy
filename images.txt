@@ -1,4 +1,4 @@
-elasticsearch:7.7
+elasticsearch:7
 #sonatype/nexus3:3.30.0
 #nacos/nacos-server:v2.3.2
 #mongo:6
