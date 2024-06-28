@@ -1,4 +1,4 @@
-sonatype/nexus3:3.30.0-01
+sonatype/nexus3:3.30.0
 #nacos/nacos-server:v2.3.2
 #mongo:6
 #mongo:7
