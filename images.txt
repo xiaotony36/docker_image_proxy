@@ -1,4 +1,5 @@
-httpd:2.4.61
+nginx:1.26.1
+#httpd:2.4.61
 #elasticsearch:7
 #sonatype/nexus3:3.30.0
 #nacos/nacos-server:v2.3.2
