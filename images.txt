@@ -1,4 +1,5 @@
-httpd:2.4.53-alpine
+minio/minio:RELEASE.2023-03-20T20-16-18Z.fips
+#httpd:2.4.53-alpine
 #mysql:8
 #redis:6
 #docker.io/calico/cni:v3.25.0
