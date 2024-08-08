@@ -1,6 +1,6 @@
 prom/node-exporter:latest
-prom/mysqld_exporter:latest
-prom/memcached_exporter:latest
+prom/mysqld_exporter
+prom/memcached_exporter
 prom/blackbox-exporter
 #grafana/grafana:latest
 #prom/prometheus:latest
