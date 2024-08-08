@@ -1,8 +1,10 @@
+grafana/grafana:latest
 prom/prometheus:latest
 prom/alertmanager:latest
-prom/blackbox_exporter:latest
+prom/blackbox-exporter:latest
 prom/mysqld_exporter:latest
 prom/memcached_exporter:latest
+prom/prometheus:2.54.0
 #sonatype/nexus3:3.68.1
 #minio/minio:RELEASE.2023-03-20T20-16-18Z.fips
 #httpd:2.4.53-alpine
