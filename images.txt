@@ -1,9 +1,9 @@
-prometheus:latest
-prometheus:2.54
-alertmanager:0.27
-blackbox_exporter:0.25
-mysqld_exporter:0.15
-memcached_exporter:0.14.4
+prom/prometheus:latest
+prom/prometheus:2.54
+prom/alertmanager:0.27
+prom/blackbox_exporter:0.25
+prom/mysqld_exporter:0.15
+prom/memcached_exporter:0.14.4
 #sonatype/nexus3:3.68.1
 #minio/minio:RELEASE.2023-03-20T20-16-18Z.fips
 #httpd:2.4.53-alpine
