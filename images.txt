@@ -1,3 +1,4 @@
+goharbor/prepare:v2.1.4
 prom/node-exporter:latest
 prom/mysqld_exporter
 prom/memcached_exporter
