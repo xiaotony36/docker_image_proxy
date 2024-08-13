@@ -1,4 +1,4 @@
-portainer/portainer:latest
+portainer/portainer-ce:latest
 goharbor/prepare:v2.1.4
 prom/node-exporter:latest
 prom/mysqld_exporter
