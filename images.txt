@@ -1,9 +1,10 @@
-portainer/portainer-ce:latest
-goharbor/prepare:v2.1.4
-prom/node-exporter:latest
-prom/mysqld_exporter
-prom/memcached_exporter
-prom/blackbox-exporter
+portainer/agent:2.19.5
+#portainer/portainer-ce:latest
+#goharbor/prepare:v2.1.4
+#prom/node-exporter:latest
+#prom/mysqld_exporter
+#prom/memcached_exporter
+#prom/blackbox-exporter
 #grafana/grafana:latest
 #prom/prometheus:latest
 #prom/alertmanager:latest
