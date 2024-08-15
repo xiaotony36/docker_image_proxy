@@ -1,4 +1,5 @@
-portainer/agent:2.19.5
+docker.elastic.co/elasticsearch/elasticsearch:7.17.13
+#portainer/agent:2.19.5
 #portainer/portainer-ce:latest
 #goharbor/prepare:v2.1.4
 #prom/node-exporter:latest
