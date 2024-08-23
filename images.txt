@@ -1,4 +1,5 @@
-csiplugin/snapshot-controller:v4.0.0
+kubesphere/notification-manager-operator:v2.3.0
+#csiplugin/snapshot-controller:v4.0.0
 #kubesphere/kube-rbac-proxy:v0.11.0
 #kubesphere/kube-state-metrics:v2.6.0
 #kubesphere/kube-rbac-proxy:v0.11.0
