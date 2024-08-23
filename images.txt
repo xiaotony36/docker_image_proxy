@@ -1,4 +1,5 @@
-kubesphere/ks-installer:v3.4.1
+alpine:3.15
+#kubesphere/ks-installer:v3.4.1
 #mobz/elasticsearch-head:5
 #docker.elastic.co/elasticsearch/elasticsearch:7.17.13
 #portainer/agent:2.19.5
