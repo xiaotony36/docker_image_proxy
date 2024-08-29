@@ -1,4 +1,12 @@
-kubesphere/notification-manager:v2.3.0
+openebs/admission-server:1.11.0
+openebs/m-apiserver:1.11.0
+openebs/provisioner-localpv:1.11.0
+openebs/node-disk-manager-amd64:0.6.0
+openebs/node-disk-operator-amd64:0.6.0
+openebs/openebs-k8s-provisioner:1.11.0
+openebs/snapshot-provisioner:1.11.0
+
+#kubesphere/notification-manager:v2.3.0
 #kubesphere/notification-tenant-sidecar:v3.2.0
 #kubesphere/notification-manager-operator:v2.3.0
 #csiplugin/snapshot-controller:v4.0.0
