@@ -1,3 +1,4 @@
+mongo:5.0.28
 openebs/admission-server:1.11.0
 openebs/m-apiserver:1.11.0
 openebs/provisioner-localpv:1.11.0
