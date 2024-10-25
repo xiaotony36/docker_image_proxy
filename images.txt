@@ -1,4 +1,5 @@
-bitnami/mongodb-exporter
+google/cadvisor:latest
+#bitnami/mongodb-exporter
 #morunchang/fastdfs
 #season/fastdfs:1.2
 
