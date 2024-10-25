@@ -1,4 +1,4 @@
-bitnmi/mongodb-exporter
+bitnami/mongodb-exporter
 #morunchang/fastdfs
 #season/fastdfs:1.2
 
