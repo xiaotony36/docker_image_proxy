@@ -1,5 +1,9 @@
-grafana/grafana:9.5.2
-google/cadvisor:latest
+prom/blackbox-exporter
+grafana/grafana:latest
+prom/prometheus:latest
+prom/alertmanager:latest
+prom/node-exporter:latest
+
 #bitnami/mongodb-exporter
 #morunchang/fastdfs
 #season/fastdfs:1.2
@@ -22,7 +26,6 @@ google/cadvisor:latest
 #kubesphere/kube-state-metrics:v2.6.0
 #kubesphere/kube-rbac-proxy:v0.11.0
 #mirrorgooglecontainers/defaultbackend-amd64:1.4
-#prom/node-exporter:v1.3.1
 #kubesphere/ks-apiserver:v3.4.1
 #kubesphere/ks-console:v3.4.1
 #kubesphere/ks-controller-manager:v3.4.1
@@ -44,10 +47,7 @@ google/cadvisor:latest
 #prom/node-exporter:latest
 #prom/mysqld_exporter
 #prom/memcached_exporter
-#prom/blackbox-exporter
-#grafana/grafana:latest
-#prom/prometheus:latest
-#prom/alertmanager:latest
+
 #sonatype/nexus3:3.68.1
 #minio/minio:RELEASE.2023-03-20T20-16-18Z.fips
 #httpd:2.4.53-alpine
