@@ -1,8 +1,10 @@
-prom/blackbox-exporter
-grafana/grafana:latest
-prom/prometheus:latest
-prom/alertmanager:latest
-prom/node-exporter:latest
+docker.io/calico/kube-controllers:v3.25.0
+docker.io/calico/node:v3.25.0
+#prom/blackbox-exporter
+#grafana/grafana:latest
+#prom/prometheus:latest
+#prom/alertmanager:latest
+#prom/node-exporter:latest
 
 #bitnami/mongodb-exporter
 #morunchang/fastdfs
