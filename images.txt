@@ -1,3 +1,4 @@
+nacos/nacos-operator:latest
 nacos/nacos-server:v2.2.3
 
 #redis:6.2.16
