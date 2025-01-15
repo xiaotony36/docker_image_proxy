@@ -1,4 +1,5 @@
-minio.RELEASE.2024-12-18T13-15-44Z
+minio/minio.RELEASE.2024-12-18T13-15-44Z
+
 #prom/mysqld-exporter
 #nacos/nacos-server:v2.4.3
 #oliver006/redis_exporter
