@@ -1,1 +1,1 @@
-bitnami/prometheus:2.45.0
+prom/prometheus:v2.45.0
