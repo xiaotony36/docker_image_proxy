@@ -1,1 +1,1 @@
-edwardelric233/ragflow:oc9
+bitnami/prometheus:2.45.0
