@@ -1,1 +1,1 @@
-valkey/valkey:8
+mysql:8.0.39
