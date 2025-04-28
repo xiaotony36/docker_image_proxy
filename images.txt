@@ -1,1 +1,1 @@
-k8s.gcr.io/prometheus-adapter/prometheus-adapter:v0.9.1
+quay.io/prometheus-operator/prometheus-operator:v0.53.1
