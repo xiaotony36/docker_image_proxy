@@ -1,1 +1,1 @@
-docker.stirlingpdf.com/stirlingtools/stirling-pdf:latest
+gitlab/gitlab-ce:18.3.5-ce.0
