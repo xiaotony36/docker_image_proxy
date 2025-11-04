@@ -1,1 +1,1 @@
-gitlab/gitlab-ce:18.3.5-ce.0
+gitlab/gitlab-ce:18.2.1-ce.0
